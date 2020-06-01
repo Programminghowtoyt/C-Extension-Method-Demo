@@ -1,5 +1,6 @@
-# C-Extension-Method-Demo
+# C#-Extension-Method-Demo
 
+source code of C# Online Tutorial https://www.youtube.com/watch?v=Eu_EFxdv578
 How to extend an existing type with new functionality using c# Extension Method
 
 Extension Methods - C# Programming Guide
