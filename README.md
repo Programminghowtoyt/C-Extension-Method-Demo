@@ -14,7 +14,4 @@ This is the situation where you can add functionality in xyz class using extensi
 C# extension method is a static method which should be defined inside a static class and should contain at least one parameter, the first preceded by the this keyword. The type of the first parameter will be the type that we want to extend.
 
 
-Don't forget to Subscribe to my channel and click the bell icon next to it so that you can get  notifications when ever I upload new video.
 
-
-Source code: 
